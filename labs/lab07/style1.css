@@ -1,0 +1,58 @@
+nav{
+    text-align: center;
+    background-image:url(city.png)
+}
+
+main{
+    display:flex;
+    
+}
+
+a{
+    color: black;
+    font-family: cursive;
+    font-size: 25px;
+    display:flex;
+    justify-content: center;
+}
+
+img{
+    border-radius: 400px;
+}
+
+.person{
+    display:flex;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: baseline; 
+}
+
+h3{
+    font-size: 30px;
+    display:flex;
+    justify-content: center;
+}
+
+h2{
+    display:flex;
+    justify-content: center;
+}
+
+p{
+    display:flex;
+    justify-content: center;
+}
+
+h3:first-of-type{
+    font-size:45px;
+}
+
+.person-description{
+    display:flex;
+    align-items: center;
+    text-align:center;
+    font-size: small;
+    font-style: italic;
+    
+}
+
